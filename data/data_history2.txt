@@ -1,0 +1,50 @@
+Tanggal :2023-12-04 10:41:47.831155
+Skor Kamu :0
+Stress mu tingkat normal
+
+Tanggal :2023-12-04 10:49:08.136166
+Skor Kamu :18
+Stress mu tingkat sedang
+
+Tanggal :2023-12-04 12:16:43.788208
+Skor Kamu :20
+Stress mu tingkat sedang
+
+Tanggal :2023-12-06 11:54:17.688296
+Skor Kamu :0
+Stress mu tingkat normal
+
+Tanggal :2023-12-07 10:27:45.912321
+Skor Kamu : 28
+
+Tanggal :2023-12-07 10:29:47.885171
+Skor Kamu : 42
+
+Tanggal :2023-12-07 14:58:36.335721
+Skor Kamu : 0
+
+Tanggal :2023-12-07 14:59:21.142939
+Skor Kamu : 0
+
+Tanggal :2023-12-13 19:32:52.705039
+Skor Kamu : 0
+
+Tanggal :2023-12-13 20:15:09.701717
+Skor Kamu : 14
+
+Tanggal :2023-12-15 12:02:22.547868
+Skor Kamu : 25
+Tingkat Stress Parah
+
+Tanggal :2023-12-15 12:05:56.607571
+Skor Kamu : 4
+Tingkat Stress Normal
+
+Tanggal :2023-12-15 14:39:26.787843
+Skor Kamu : 0
+Tingkat Stress Normal
+
+Tanggal :2023-12-15 16:16:00.197716
+Skor Kamu : 0
+Tingkat Stress Normal
+

@@ -1,0 +1,72 @@
+Tanggal :2023-12-07 14:05:55.953276
+Skor Kamu : 0
+
+Tanggal :2023-12-07 14:33:52.457710
+Skor Kamu : 19
+
+Tanggal :2023-12-07 14:58:26.053478
+Skor Kamu : 14
+
+Tanggal :2023-12-07 15:08:14.967143
+Skor Kamu : 42
+
+Tanggal :2023-12-07 15:15:04.795121
+Skor Kamu : 0
+
+Tanggal :2023-12-07 15:15:11.491909
+Skor Kamu : 24
+
+Tanggal :2023-12-07 15:15:30.744760
+Skor Kamu : 14
+
+Tanggal :2023-12-07 15:15:39.055586
+Skor Kamu : 42
+
+Tanggal :2023-12-07 19:17:26.239946
+Skor Kamu : 0
+
+Tanggal :2023-12-07 19:17:38.456679
+Skor Kamu : 42
+
+Tanggal :2023-12-14 20:05:41.912965
+Skor Kamu : 0
+Tingkat Depresi Normal
+Tanggal :2023-12-14 20:05:50.030000
+Skor Kamu : 28
+Tingkat Depresi Sangat Parah
+Tanggal :2023-12-15 12:04:07.129272
+Skor Kamu : 3
+Tingkat Depresi Normal
+
+Tanggal :2023-12-15 16:16:17.376928
+Skor Kamu : 28
+Tingkat Depresi Sangat Parah
+
+Tanggal :2023-12-15 16:16:23.598333
+Skor Kamu : 42
+Tingkat Depresi Sangat Parah
+
+Tanggal :2023-12-19 18:36:43.802890
+Skor Kamu : 0
+Tingkat Depresi Normal
+
+Tanggal :2023-12-19 18:37:24.586670
+Skor Kamu : 14
+Tingkat Depresi Sedang
+
+Tanggal :2023-12-19 18:37:33.123223
+Skor Kamu : 19
+Tingkat Depresi Sedang
+
+Tanggal :2023-12-19 18:37:42.330056
+Skor Kamu : 20
+Tingkat Depresi Sedang
+
+Tanggal :2023-12-19 18:38:08.522170
+Skor Kamu : 12
+Tingkat Depresi Ringan
+
+Tanggal :2023-12-19 19:35:22.709932
+Skor Kamu : 28
+Tingkat Depresi Sangat Parah
+
